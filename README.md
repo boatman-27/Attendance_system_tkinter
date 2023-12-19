@@ -1,0 +1,1 @@
+an attendance system that is built using this face recognition method: https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/. The data is then stored in a CSV file and the interface is designed usnig tkinter
